@@ -441,8 +441,8 @@ body.dark-theme {
   font-size: var(--smaller-font-size);
 }
 .skills__data img{
-  width: 22px;
-  height:22px;
+  width: 19px;
+  height:19px;
 }
 /*=============== REPOS =================*/
 .repos__content {
