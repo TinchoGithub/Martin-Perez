@@ -531,6 +531,13 @@ body.dark-theme {
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
 }
+.martin{
+  color: var(--text-color-light);
+}
+.martin:hover{
+  color: var(--first-color);
+  cursor: pointer;
+}
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
