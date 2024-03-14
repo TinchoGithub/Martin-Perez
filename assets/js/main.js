@@ -76,7 +76,7 @@ const reposSection = document.querySelector('.repos');
 const getRepos = async function () {
     let repos = [];
     let res;
-    for (let i = 1; i <= maxPages; i++) {
+    for (let i = 0; i <= maxPages; i++) {
         res = await fetch(
             `https://api.github.com/users/${username}/repos?&sort=pushed&per_page=100&page=${i}`
             // {
