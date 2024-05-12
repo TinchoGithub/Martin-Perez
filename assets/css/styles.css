@@ -89,7 +89,7 @@ img {
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme {
-  --first-color: rgb(137, 180, 250);
+  --first-color: #89b4fa;
   --first-color-alt: #74c7ec;
   --title-color: #cdd6f4;
   --text-color: #cdd6f4;
